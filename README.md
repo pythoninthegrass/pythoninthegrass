@@ -1,4 +1,4 @@
-Hey <img src="" width="32" height="32" alt="listen" />! My name is Lance Stephens
+Hey <img src="https://raw.githubusercontent.com/pythoninthegrass/pythoninthegrass/main/img/navi.png" width="20" height="20" alt="listen" />! My name is Lance Stephens.
 
 ### DevOps Engineer
 
