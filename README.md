@@ -2,7 +2,7 @@ Hey <img src="https://raw.githubusercontent.com/pythoninthegrass/pythoninthegras
 
 ### DevOps Engineer
 
-I'm ~~a senior IT engineer at a unicorn SaaS company~~ [#opentowork](https://www.linkedin.com/in/lancestephens/) and run the [Pythonistas Meetup group](https://www.meetup.com/pythonistas/).
+I'm ~~a senior IT engineer at a unicorn SaaS company~~ [#opentowork](https://www.linkedin.com/in/lancestephens/) and run the [Pythonistas](https://www.meetup.com/pythonistas/) and [OK Golang](https://www.meetup.com/ok-golang/) Meetup groups.
 
 ### Skills
 
