@@ -2,7 +2,7 @@ Hey <img src="https://raw.githubusercontent.com/pythoninthegrass/pythoninthegras
 
 ### DevOps Engineer
 
-I'm a software engineer [Northwest Logistics](https://www.linkedin.com/in/lancestephens/) and run the [Pythonistas](https://www.meetup.com/pythonistas/) Meetup.
+I'm a software engineer [Northwest Logistics](https://www.linkedin.com/in/lancestephens/) and run the [Pythonistas](https://www.meetup.com/pythonistas/) Meetup group in OKC.
 
 ### Skills
 
